@@ -1,0 +1,67 @@
+{
+    "name": "DO NGOC XUAN",
+    "phone": "0989465126",
+    "email": "ngocxuan2255@gmail.com",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "linkedin": null,
+    "github": null,
+    "skills": [
+        "Prometheus.io",
+        "Grafana",
+        "Amazon EKS",
+        "Helm Charts",
+        "Leadership",
+        "Kubernetes",
+        "PostgreSQL",
+        "AWS Lambda",
+        "Elasticsearch",
+        "Go (Programming Language)",
+        "Microservices",
+        "Apache Kafka",
+        "Amazon Web Services (AWS)",
+        "Google Cloud Platform (GCP)",
+        "Node.js",
+        "Rancher Kubernetes Management",
+        "Laravel",
+        "PHP",
+        "MySQL",
+        "WordPress",
+        "Trello",
+        "Amazon Web Services",
+        "Ubuntu",
+        "GitLab (Ci/CD)",
+        "NGINX",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Mailgun",
+        "Mailchimp",
+        "Docker"
+    ],
+    "language": null,
+    "working_experiences": [
+        {
+            "company": "KlikDokter",
+            "title": "Lead Backend",
+            "working_date": "07/2022 - Present"
+        },
+        {
+            "company": "Hello Health Group",
+            "title": "Backend Technical Lead",
+            "working_date": "01/2020 - 06/2022"
+        },
+        {
+            "company": "Hakuhodo Product's Inc",
+            "title": "Senior Backend Engineer",
+            "working_date": "10/2018 - 12/2019"
+        },
+        {
+            "company": "Mirum",
+            "title": "Lead Backend",
+            "working_date": "01/2014 - 09/2018"
+        }
+    ],
+    "college": null,
+    "major": null
+}
